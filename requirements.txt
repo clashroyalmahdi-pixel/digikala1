@@ -13,4 +13,4 @@ sqlparse==0.5.3
 tzdata==2025.2
 uvicorn==0.35.0
 whitenoise==6.9.0
-django-jalali==5.0.0
+django-jalali==0.10.1
